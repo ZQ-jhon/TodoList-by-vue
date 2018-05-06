@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.d67470419a966535be9510d4c1d29bbc.css"],"names":[],"mappings":"AAKA,uBAAoB,SAAS,SAAW,CACvC,AACD,kCAAkC,gBAAgB,WAAa,CAC9D","file":"app.d67470419a966535be9510d4c1d29bbc.css","sourcesContent":["\nul{margin:0;padding: 0;\n}\n\n\nli[data-v-fb8c266c]{margin:0;padding: 0;\n}\n.list-group-item[data-v-fb8c266c]{margin-top:15px;border: none;\n}\n"]}
